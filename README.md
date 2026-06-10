@@ -1,4 +1,4 @@
-# 🏦 Life Insurance Customer Persistency Analysis
+<img width="1227" height="547" alt="image" src="https://github.com/user-attachments/assets/4291c7d7-ea15-4925-849e-97c4ca42b432" /># 🏦 Life Insurance Customer Persistency Analysis
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-4479A1?style=flat&logo=sqlite&logoColor=white)
@@ -38,10 +38,10 @@ Mock dataset created with realistic BFSI business logic:
 ## Dashboard
 
 ### Page 1 — Executive Summary
-![Executive Summary](C:\Users\Admin\OneDrive\Desktop\Portfolio/page1_executive_summary.png)
+![Executive Summary](screenshots/page1_executive_summary.png)
 
 ### Page 2 — Agent Risk Analysis
-![Agent Risk Analysis](C:\Users\Admin\OneDrive\Desktop\Portfolio/page2_agent_risk_analysis.png)
+![Agent Risk Analysis](screenshots/page2_agent_risk_analysis.png)
 
 ## SQL Queries
 8 business queries covering:
