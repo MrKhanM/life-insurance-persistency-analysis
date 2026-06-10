@@ -1,4 +1,4 @@
-<img width="1227" height="547" alt="image" src="https://github.com/user-attachments/assets/4291c7d7-ea15-4925-849e-97c4ca42b432" /># 🏦 Life Insurance Customer Persistency Analysis
+# 🏦 Life Insurance Customer Persistency Analysis
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-4479A1?style=flat&logo=sqlite&logoColor=white)
